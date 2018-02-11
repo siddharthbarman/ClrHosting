@@ -1,0 +1,7 @@
+bin/*
+.vs/*
+ClrHost/Debug/*
+SampleClassLib/bin/*
+SampleClassLib/obj/*
+TestConsoleApp/obj/*
+TestWpf/obj/*
